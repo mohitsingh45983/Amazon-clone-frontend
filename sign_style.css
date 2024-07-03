@@ -1,0 +1,83 @@
+.amazon_sign_in{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.signIn_logo{
+    margin-top: 10px;
+    width: 409px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+
+.signIn_content{
+    height: 300px;
+    width: 23%;
+    border: 0.5px solid black;
+    border-radius: 5px;
+    margin-top: 10px;
+    padding-left: 40px;
+
+}
+
+.signIn_content input{
+    width: 80%;
+    border-radius:5px ;
+    height: 30px;
+    border: 0.1px solid black;
+
+}
+.signIn_content input:hover{
+    border: 5px solid skyblue;
+
+}
+
+.signIn_content button{
+    width: 80%;
+    border-radius:5px ;
+    margin-top: 10px;
+    height: 30px;
+    color: black;
+    background-color: #febd68;
+    border: 1px solid  #febd68;
+
+}
+
+.sign_Conditions{
+    margin-top: 20px;
+    justify-content: center;
+    text-decoration: none;
+    margin-bottom: 20px;
+    font-size: 0.95rem;
+}
+
+#CreateAccountSubmit{
+    margin-top: 40px;
+    width: 23%;
+    height: 30px;
+    border-radius:5px ;
+    border: 0.1px solid black;
+    font-size: 0.95rem;
+}
+
+.sign_end{
+    height: 190px;
+    border-top: 0.1px solid black;
+    margin-top: 30px;
+    background-color: #e3e6e9;
+}
+
+.sign-end-pages{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.sign-end-pages a{
+    margin-right: 15px;
+    text-decoration: none;
+    color: #0066C0;
+    font-size: 0.95rem;
+}

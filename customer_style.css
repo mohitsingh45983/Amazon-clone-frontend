@@ -1,0 +1,48 @@
+.customer_content{
+    background-color: #007185;
+    height: 740px;
+}
+
+.customer_navBar{
+    height:63px;
+    box-shadow: 0px 0px 12px 0px rgba(0,0,0,.25);
+    display: flex;
+    align-items: center;
+}
+
+.customer_navBar a{
+    color: white;
+    text-decoration: none;
+    margin: 0px 30px 0px 30px;
+}
+
+.fs-match-card{
+    background-color: white;
+    border-radius: 5px;
+    width: 374px;
+    height: 94px;
+    display: flex;
+    align-items: center;
+    padding-left:20px ;
+}
+
+.issue_card_wrapper{
+    height: 118px;
+    width: 398px;
+}
+
+.isuee-card-cotainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 0 140px 100px 140px;
+
+}
+.page-wrapper{
+    height: max-content;
+    background-color: white;
+}
+
+
+
+
